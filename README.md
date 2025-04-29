@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a software enthusiast, <br>constantly eager to learn and grow in the tech world.<br>My journey in programming began as a hobby, <br>and it has now evolved into a career I truly enjoy.<br>Currently, I am exploring various programming <br>languages and technologies. to enhance my skill set.
-
+I am a software enthusiast, <br>constantly eager to learn and grow in the tech world.<br>What began as an initial interest has developed into a fulfilling career.<br>I am currently broadening my expertise by exploring various<br>programming languages and technologies to strengthen my skill set.
 
 
 

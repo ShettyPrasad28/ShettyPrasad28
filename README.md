@@ -19,8 +19,6 @@ I am a software enthusiast, <br>constantly eager to learn and grow in the tech w
 
 ## 📈 My GitHub Stats
 
-![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShettyPrasad28&show_icons=true&theme=github_dark)
-
 ![Prasad's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShettyPrasad28&theme=github-dark)
 
 

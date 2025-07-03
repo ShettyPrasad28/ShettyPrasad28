@@ -1,6 +1,10 @@
 # 💫 About Me:
 I am a software enthusiast, <br>constantly eager to learn and grow in the tech world.<br>What began as an initial interest has developed into a fulfilling career.<br>I am currently broadening my expertise by exploring various<br>programming languages and technologies to strengthen my skill set.
 
+![Visitor Count](https://komarev.com/ghpvc/?username=ShettyPrasad28&label=Profile%20Views&color=0e75b6&style=flat)
+
+
+
 
 
 # 💻 Tech Stack:
@@ -23,9 +27,8 @@ I am a software enthusiast, <br>constantly eager to learn and grow in the tech w
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
+
+
 [![](https://visitcount.itsvg.in/api?id=ShettyPrasad28&icon=0&color=13)](https://visitcount.itsvg.in)
 

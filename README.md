@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software enthusiast 👨‍💻, constantly eager to learn and grow in the tech world 🌐.<br>I’m exploring new programming languages 💡, frameworks 🧩, and tools 🛠️ to improve my skills and build cool, useful things 🚀. <br>Right now, I’m focused on learning full-stack web development 🕸️ and gaining hands-on experience through projects 📂 and various technologies 💾 and programming languages to strengthen my skill set 🧠.
+I am a software enthusiast 👨‍💻, constantly eager to learn and grow in the tech world 🌐.<br>I’m exploring new programming languages 💡, frameworks 🧩, and tools 🛠️ to improve my skills and build cool, useful things 🚀. <br>Right now, I’m focused on learning java full-stack web development 🕸️ and gaining hands-on experience through projects 📂 and various technologies 💾 and programming languages to strengthen my skill set 🧠.
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShettyPrasad28&label=Profile%20Views&color=0e75b6&style=flat)
